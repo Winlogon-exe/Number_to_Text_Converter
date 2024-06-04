@@ -31,7 +31,11 @@
 *.out
 *.app
 
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
 cmake-build-debug/
-.idea
 bin/
 
